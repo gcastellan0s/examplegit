@@ -1,0 +1,9 @@
+
+git init    ** Solo una vez 
+git add 
+git commit -m "Nombre del commit"
+git remote add    ** Solo una vez 
+git push -u origin master 
+git clone
+git branch
+git checkout
